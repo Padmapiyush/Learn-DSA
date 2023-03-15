@@ -8,7 +8,7 @@ Here is a roadmap to learn Data Structures and Algorithms (DSA) in C and C++:
 * Practice writing small programs to get comfortable with the language.<br>
 ### 2. **Understand the fundamentals of DSA:**
 
-* Learn about different data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
+* Learn about different data structures such as [arrays](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/1.%20Array), [linked lists](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/2.%20Linked%20List), [stacks](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/3.%20Stack), [queues](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/4.%20Queue), [trees](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/5.%20Trees), and [graphs](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/6.%20Graphs).
 * Understand basic algorithms such as searching, sorting, and recursion.<br>
 ### 3. **Implement basic data structures in C and C++:**
 
@@ -20,7 +20,7 @@ Here is a roadmap to learn Data Structures and Algorithms (DSA) in C and C++:
 * Understand the time and space complexity of these algorithms.<br>
 ### 5. **Practice solving DSA problems:**
 
-* Solve basic DSA problems using the data structures and algorithms you have learned.
+* Solve basic DSA problems using the data [structures](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/) and [algorithms]() you have learned.
 * Use online platforms such as LeetCode, HackerRank, and Codeforces to practice solving DSA problems.<br>
 ### 6. **Learn advanced data structures and algorithms:**
 
