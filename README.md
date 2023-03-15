@@ -34,7 +34,7 @@ Here is a roadmap to learn Data Structures and Algorithms (DSA) in C and C++:
 
 * Learn best practices for writing clean and efficient code.
 * Learn how to optimize code and improve performance.<br>
-9. Keep practicing and learning:
+### 9. Keep practicing and learning:
 
 * Continue practicing and learning new DSA concepts and techniques.
 * Stay up-to-date with the latest trends and technologies in the field.<br>
