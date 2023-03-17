@@ -2,12 +2,12 @@
 
 ## 1. Sorting:
 Algorithms to sort elements in ascending or descending order. Examples include 
-- bubble sort, 
-- insertion sort, 
-- selection sort, 
-- quick sort, 
-- merge sort, and 
-- heap sort.
+- [bubble sort](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/1.%20Sorting#1-bubble-sort), 
+- [insertion sort](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/1.%20Sorting#2-insertion-sort), 
+- [selection sort](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/1.%20Sorting#3-selection-sort), 
+- [quick sort](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/1.%20Sorting#4-quick-sort), 
+- [merge sort](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/1.%20Sorting#5-merge-sort), and 
+- [heap sort](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/1.%20Sorting#6-heap-sort).
 
 ## 2. Searching:
 Algorithms to find the location of an element in a data structure. Examples include 
