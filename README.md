@@ -4,12 +4,12 @@ Here is a roadmap to learn Data Structures and Algorithms (DSA) in C and C++:
 
 ### 1. **Learn the basics of C and C++ programming languages:**
 
-* Familiarize yourself with syntax, data types, variables, control statements, loops, functions, arrays, pointers, and memory management in C and C++.
+* Familiarize yourself with [syntax, data types, variables, control statements, loops, functions, arrays, pointers, and memory management in C and C++](https://github.com/Padmapiyush/Learn-CPP#roadmap-to-learn-c).
 * Practice writing small programs to get comfortable with the language.<br>
 ### 2. **Understand the fundamentals of DSA:**
 
 * Learn about different data structures such as [arrays](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/1.%20Array), [linked lists](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/2.%20Linked%20List), [stacks](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/3.%20Stack), [queues](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/4.%20Queue), [trees](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/5.%20Trees), and [graphs](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/6.%20Graphs).
-* Understand basic algorithms such as searching, sorting, and recursion.<br>
+* Understand basic algorithms such as [searching](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/2.%20Searching#linear-search-algorithm), [sorting](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/1.%20Sorting#sorting-algorithms), and [recursion](https://github.com/Padmapiyush/Learn-DSA/tree/main/Algorithms/3.%20Recursion#1-fibonacci).<br>
 ### 3. **Implement basic data structures in C and C++:**
 
 * Write code to implement arrays, linked lists, stacks, and queues in C and C++.
@@ -17,7 +17,7 @@ Here is a roadmap to learn Data Structures and Algorithms (DSA) in C and C++:
 ### 4. **Implement basic algorithms in C and C++:**
 
 * Write code to implement searching and sorting algorithms in C and C++.
-* Understand the time and space complexity of these algorithms.<br>
+* Understand the [time and space complexity](https://github.com/Padmapiyush/Learn-DSA/tree/main/Space%20%26%20Time%20Complexity#space--time-complexity) of these algorithms.<br>
 ### 5. **Practice solving DSA problems:**
 
 * Solve basic DSA problems using the data [structures](https://github.com/Padmapiyush/Learn-DSA/tree/main/Data%20Structures/) and [algorithms]() you have learned.
